@@ -11,4 +11,4 @@ Arkadaşlar buraya arapça rusça yazılar yazıp havalı olmaya çalışmıcam 
 
 ## Discord Profilim
 
-<a href="https://discord.com/users/442404369237934080" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/818901891341090876"></a>
+<a href="https://discord.com/users/442404369237934080" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/442404369237934080"></a>
