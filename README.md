@@ -5,9 +5,7 @@ Arkadaşlar buraya arapça rusça yazılar yazıp havalı olmaya çalışmıcam 
 ## İstatistiklerim  
 ![Min's github stats](https://github-readme-stats.vercel.app/api?username=m1njs&show_icons=true&theme=dark) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1njs&show_icons=true&theme=dark)
-
-![](https://komarev.com/ghpvc/?username=your-github-Ruaffff&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=your-github-m1njs&color=lightgrey)
 
 ## Discord Profilim
 
